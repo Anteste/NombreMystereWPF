@@ -1,0 +1,20 @@
+﻿<Window x:Class="NombreMystereWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NombreMystereWpf"
+        mc:Ignorable="d"
+        Title="LeNombreMystere" Height="400.5" Width="717.5" Loaded="Window_Loaded">
+    <Grid Margin="12">
+        <StackPanel>
+            <TextBlock Text="J' ai choisi un nombre entre 1 et 20, trouve le: "/>
+            <TextBlock x:Name="texteBlockInfo"/>
+            <TextBlock Text="Nombre d'essais: 0"/>
+            <TextBox x:Name="TextBoxEssai"/>
+            <Button x:Name="btnValider" Content="Valider" Click="BtnValider_Click"/>
+            <Button x:Name="btnNouvellePartie" Content="Nouvelle Partie" Click="BtnNouvellePartie_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

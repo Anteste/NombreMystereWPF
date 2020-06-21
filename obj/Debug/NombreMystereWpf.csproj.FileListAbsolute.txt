@@ -1,0 +1,15 @@
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\bin\Debug\NombreMystereWpf.exe.config
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\bin\Debug\NombreMystereWpf.exe
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\bin\Debug\NombreMystereWpf.pdb
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.csprojAssemblyReference.cache
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\App.g.cs
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf_MarkupCompile.cache
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf_MarkupCompile.lref
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\MainWindow.baml
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.g.resources
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.Properties.Resources.resources
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.csproj.GenerateResource.cache
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.csproj.CoreCompileInputs.cache
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.exe
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystereWpf\obj\Debug\NombreMystereWpf.pdb
